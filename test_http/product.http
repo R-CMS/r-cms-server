@@ -1,0 +1,5 @@
+# Test your FastAPI endpoints
+
+### 제품 조회
+GET http://127.0.0.1:8000/api/v1/products/
+Content-Type: application/json

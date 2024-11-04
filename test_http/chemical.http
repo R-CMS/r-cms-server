@@ -1,0 +1,10 @@
+# Test your FastAPI endpoints
+
+### 화학물질 조회
+GET http://127.0.0.1:8000/api/v1/chemicals/
+Content-Type: application/json
+
+
+### 화학물질 + 제품 조회
+GET http://127.0.0.1:8000/api/v1/chemicals/products
+Content-Type: application/json
